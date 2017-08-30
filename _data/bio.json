@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Lancen Daclison",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://lancenhd.github.io/images/lancenhd_pic.png",
+    "email": "lancenhd@.edu",
+    "phone": "808-342-3669",
+    "website": "https://lancenhd.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96797",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,34 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "lancenhd",
+        "url": "http://github.com/lancenhd"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "lancenhd",
+        "url": "http://www.linkedin.com/in/lancen-daclison-77955a124/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Graphic Design",
+      "keywords": [
+      ]
+    },
+        {
+      "name": "Game Development",
       "keywords": [
       ]
     }
@@ -65,8 +58,7 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Assembly"
       ]
     },
     {
@@ -85,22 +77,22 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "studyType": "B.A.",
+      "startDate": "2012-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.0",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa (New Student Orientation) ",
+      "position": "Web Designer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2016-12-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Manages New Student Orientation website and designs fliers",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
