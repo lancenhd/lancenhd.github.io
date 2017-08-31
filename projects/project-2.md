@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/CookingQuest_cover.jpg
+image: images/cookingQuest.jpg
 title: Cooking Quest
 permalink: projects/cookingQuest
 date: 2017
