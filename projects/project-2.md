@@ -13,7 +13,7 @@ labels:
 summary: A poster of my text game for ics 313.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/cookingKnight.jpg">
+<img class="ui medium right floated rounded image" src="../images/cookingKnight.png">
 
 In my ics 313 class, we created a text-based games using Lisp. These games would be an open world where you can interact with objects and you the player of the game has to figure out a way to win while playing the game by typing in commands. 
 
