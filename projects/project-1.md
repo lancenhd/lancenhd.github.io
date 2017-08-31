@@ -1,29 +1,26 @@
 ---
-layout: project
-type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+layout: projects
+image: images/hacc.png 
+title: Being a part of HACC 2016
+permalink: projects/hacc
+date: 2016 
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  -web design 
+summary: Interned with the state to help create Hawaii's first Hawaii Annual Code Challenge, which is a month long hackathon that helps build a connection between Hawaii's own tech talents and Hawaii to solve problems in Hawaii. 
 ---
-
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+<div>
+<src ="../images/TIP.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+In the summer of 2016 I Interned with the state to help create Hawaii's first Hawaii Annual Code Challenge. 
+This was a month long event that is similar to a hackathon that would help Hawaii and give it's local tech talent 
+an opportunity to work together to tackle Hawaii's problems and find and implement possible solutions
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+During the internship the group of interns were placed into seperate teams. I was placed into two teams, one was the web desgin team, 
+so we focused on building and managing the website through WordPress using HTML, CSS, and PHP. While the other team was a small team 
+that was myself and a state worker, where we researched web accessibility in hopes that we can improve the layout of the state's many sites.
+Making it easier for people to navigate and find answers to their questions about the state. We also tried modifying the hacc website to follow 
+web accessibility rules, which we tested with [WAVE](http://wave.webaim.org/) and [tenon.io](https://tenon.io/)</a>
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
-
+Through this internship, I got a feel of what it is like to work with the state, and most importantly a little look at what 
+a possible web designer job could be like. 
