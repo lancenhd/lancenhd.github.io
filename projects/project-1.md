@@ -10,7 +10,7 @@ labels:
 summary: Interned with the state to help create Hawaii's first Hawaii Annual Code Challenge, which is a month long hackathon that helps build a connection between Hawaii's own tech talents and Hawaii to solve problems in Hawaii. 
 ---
 <div>
-<src ="{{ site.baseur1 }}/images/TIP.jpg">
+  <img class="ui medium right floated rounded image" src="../images/TIP.jpg">
 </div>
 
 In the summer of 2016 I Interned with the state to help create Hawaii's first Hawaii Annual Code Challenge. 
