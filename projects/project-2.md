@@ -1,24 +1,23 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/CookingQuest_cover.jpg
+title: Cooking Quest
+permalink: projects/cookingQuest
+date: 2017
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Lisp
+  - Graphic Design
+  - text game
+ 
+summary: A poster of my text game for ics 313.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+In my ics 313 class, we created a text-based games using Lisp. These games would be an open world where you can interact with objects and you the player of the game has to figure out a way to win while playing the game by typing in commands. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+My game was a game where the player is a robotic cooking knight that would fight the monsters in the area. The knight would do that by finding items and combing and cooking them, causing the monsters to be put into submission from the knight's delicious creations. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+This project was really fun and important to me, because it was the closest thing to a videogame I have ever made, which is one of my goals. This project was also the first time, I have ever really tried to draw using Adobe Illustrator. It made me realize how fun and time consuming drawing is. 
+
