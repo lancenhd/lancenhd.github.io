@@ -1,5 +1,5 @@
 ---
-layout: projcet
+layout: projects
 image: images/hacc.png 
 title: Being a part of HACC 2016
 permalink: projects/hacc
