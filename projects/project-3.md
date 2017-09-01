@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/c++_sign.jpg
 title: C++ Database
-permalink: projects/c++database
+permalink: projects/cplus
 date: 2016
 labels:
   - C++
