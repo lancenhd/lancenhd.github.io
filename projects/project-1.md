@@ -25,3 +25,7 @@ web accessibility rules, which we tested with [WAVE](http://wave.webaim.org/) an
 
 Through this internship, I got a feel of what it is like to work with the state, and most importantly a little look at what 
 a possible web designer job could be like. 
+
+HACC Website: [Click Here](http://hacc.hawaii.gov/)
+
+About HACC Event: [Click Here](http://ets.hawaii.gov/state-transformation-internship-program-wraps-up-summer-2016-session/)
