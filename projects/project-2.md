@@ -21,4 +21,4 @@ My game was a game where the player is a robotic cooking knight that would fight
 
 This project was really fun and important to me, because it was the closest thing to a videogame I have ever made, which is one of my goals. This project was also the first time, I have ever really tried to draw using Adobe Illustrator. It made me realize how fun and time consuming drawing is. 
 
-My Project: [Click Here](https://github.com/lancenhd/cookingQuest/tree/new_branch)
+My Project: [Click Here](https://github.com/lancenhd/cookingQuest/blob/new_branch/cookingQuest/cooking_quest.lisp)
