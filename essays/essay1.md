@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Wandering around to get where I am
-date: 2017-09-30
+date: 2017-08-30
 labels:
   - growth
   - origin 
