@@ -12,21 +12,6 @@ labels:
 This week's focus was on coding standards. Based on my experience with using ES Lint to follow 
 a coding standard for JavaScript, I found it a little troublesome. At first, I thought I had no 
 problems. I was writing code like I usually do, which I thought looked nice and understandable. 
-Something like:
-    Function something(nums)
-    {
-       let i = 0;
-       if(nums + i > 0)
-       {
-         console.log("Cool");
-       }
-       else 
-       {
-         console.log("Other word");
-       }
-    }
-    
-    console.log(something(9));
     
 But after actually installing and using ES Lint, I had loads of errors and couldn't run my code.
 Which was frustrating because I didn't want to write another way for it to be correct. Like, the 
