@@ -3,21 +3,21 @@ layout: project
 type: project
 image: images/beats.jpg
 title: Campus Beats
-permalink: projects/campusbeats
+permalink: projects/cookingQuest
 date: 2017
 labels:
-- Web design
-- Meteor 
-- Javascript 
-- HTML
-- CSS
-- Teamwork 
-- Learning experience 
-- ESLint
-- Command line
-- Music related application
- summary: Campus Beats is a project that allows people who are interested in music to reach out and to meet other like minded and talented people using the Campus Beats app.
-  ---
+  - Web Design
+  - Meteor
+  - Javascript
+  - HTML
+  - CSS
+  - Teamwork
+  - ESLint
+  - Commandline 
+  - Music related application
+ 
+summary: Campus Beats is a project that allows people who are interested in music to reach out and to meet other like minded and talented people using the Campus Beats app.
+---
   ##About Campus Beats
   
   Campus Beats is the final project for ics 314 (software engineering) that Blaine Wataru, Innika Pang, and I worked on together. 
