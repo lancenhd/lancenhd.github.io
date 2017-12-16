@@ -9,6 +9,8 @@ labels:
   - web development
   - meteor
 ---
+Before you read through my essay, I would suggest to click on this link [here](https://sourcemaking.com/design_patterns).
+This is only reccommended if you are not familiar with design patterns, as it may help you understand the terms mean, the link can also possibly help you visually see what I am talking about as well. 
 
 Originally I thought design patterns were particular methods that people can use to help smoothen the process of building 
 projects. These sort of methods can help speed up your process on building software, or possibly make it easier to manage 
