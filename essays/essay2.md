@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The difference questions
+title: Crafting Questions
 date: 2017-09-07
 labels:
   - how to make questions
