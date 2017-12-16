@@ -60,9 +60,7 @@ summary: Campus Beats is a project that allows people who are interested in musi
   The landing page, which would attract the attention and summarize the idea of the project.
   The beats page: I worked on the layout of the page, and took part of the functionality of the search algorithm. 
   The home page: An attempt to work on the favorites functionality, but couldn't get it to work in time. 
-  <p align="center"> <img height ="300" src="../images/landingpageM2.png"</p>
-  <p align="center"> <img height ="300" src="../images/beatspageM2.png"</p>
-  <p align="center"> <img height ="300" src="../images/homepageM2.png"</p>
+ 
 
   
   
