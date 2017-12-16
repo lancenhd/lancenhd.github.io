@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/beats.jpg
 title: Campus Beats
-permalink: projects/cookingQuest
+permalink: projects/campusbeats
 date: 2017
 labels:
   - Web Design
@@ -27,7 +27,7 @@ summary: Campus Beats is a project that allows people who are interested in musi
   like the genre of music people like to play, or even their experience. With the Campus Beats app, you can filter and find people that you would like to work with
   such as by finding people with similar goals, styles, experience, and abilities.
   
-  You can view the project [HERE](https://campbeats.github.io/).
+  You can view the project [HERE](https://github.com/campusbeats).
   
   ## Reflection 
   After working on this project, I feel like I have gained a better understanding of team work, the different stages of planning and production, github, 
