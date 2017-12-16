@@ -6,16 +6,16 @@ title: Campus Beats
 permalink: projects/campusbeats
 date: 2017
 labels:
-  - Web design
-  - Meteor 
-  - Javascript 
-  - HTML
-  - CSS
-  - Teamwork 
-  - Learning experience 
-  - ESLint
-  - Command line
-  - Music related application
+- Web design
+- Meteor 
+- Javascript 
+- HTML
+- CSS
+- Teamwork 
+- Learning experience 
+- ESLint
+- Command line
+- Music related application
  summary: Campus Beats is a project that allows people who are interested in music to reach out and to meet other like minded and talented people using the Campus Beats app.
   ---
   ##About Campus Beats
@@ -28,7 +28,8 @@ labels:
   such as by finding people with similar goals, styles, experience, and abilities.
   
   You can view the project [HERE](https://campbeats.github.io/).
-  #Reflection 
+  
+  ##Reflection 
   After working on this project, I feel like I have gained a better understanding of team work, the different stages of planning and production, github, 
   and programming with a team. Luckily, I was fortunate enough to work with good natured people, where ideas were passed freely and without fear of discrimination. 
   We also talked out problems that we were having, enabling  us to get rid of several of our issues for the project such as the sorting algortihm for our beats page, 
@@ -57,10 +58,10 @@ labels:
   Pages I worked on:
   
   The landing page, which would attract the attention and summarize the idea of the project.
-  <p align="center"> <img height ="300" src="../images/landingpageM2.png"</p>
   The beats page: I worked on the layout of the page, and took part of the functionality of the search algorithm. 
-  <p align="center"> <img height ="300" src="../images/beatspageM2.png"</p>
   The home page: An attempt to work on the favorites functionality, but couldn't get it to work in time. 
+  <p align="center"> <img height ="300" src="../images/landingpageM2.png"</p>
+  <p align="center"> <img height ="300" src="../images/beatspageM2.png"</p>
   <p align="center"> <img height ="300" src="../images/homepageM2.png"</p>
 
   
