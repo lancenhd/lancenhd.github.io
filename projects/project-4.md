@@ -18,7 +18,7 @@ labels:
  
 summary: Campus Beats is a project that allows people who are interested in music to reach out and to meet other like minded and talented people using the Campus Beats app.
 ---
-  ##About Campus Beats
+  ## About Campus Beats
   
   Campus Beats is the final project for ics 314 (software engineering) that Blaine Wataru, Innika Pang, and I worked on together. 
   Campus Beats is an app that allows people who are interested in music to reach out and meet with other like minded and talented people to play music with each other. 
@@ -29,7 +29,7 @@ summary: Campus Beats is a project that allows people who are interested in musi
   
   You can view the project [HERE](https://campbeats.github.io/).
   
-  ##Reflection 
+  ## Reflection 
   After working on this project, I feel like I have gained a better understanding of team work, the different stages of planning and production, github, 
   and programming with a team. Luckily, I was fortunate enough to work with good natured people, where ideas were passed freely and without fear of discrimination. 
   We also talked out problems that we were having, enabling  us to get rid of several of our issues for the project such as the sorting algortihm for our beats page, 
@@ -49,7 +49,7 @@ summary: Campus Beats is a project that allows people who are interested in musi
   Although we weren't able to get all of our functions to work like we originally wanted, we were able to get most of it and I believe 
   that with more time we could have finished the project with fully working functionalites. 
   
-  ##My Contribution 
+  ## My Contribution 
   For this project we had a team strategy of working on a little bit of everything, and working off each others work.We also helped each other by working on each others issues.
   Although I wanted to mainly work on the front-end aspect of the project, I also got to touch of some back-end parts of the project, such as the search algortihm for our beats page. 
   As expected, I felt like back-end was not my strong suit, but was surprised to learn that I could pick up on it a little. 
