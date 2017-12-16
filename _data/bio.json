@@ -58,14 +58,17 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly"
+        "Assembly",
+        "Lisp",
+        "Semantic UI",
+        "Meteor",
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows 10",
         "Ubuntu",
         "Git/GitHub",
         "PhotoShop", 
